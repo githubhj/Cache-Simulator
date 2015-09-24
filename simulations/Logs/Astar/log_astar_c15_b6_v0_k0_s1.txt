@@ -1,0 +1,25 @@
+Cache Settings
+C: 15
+B: 6
+S: 1
+V: 0
+K: 0
+
+Cache Statistics
+Accesses: 501468
+Reads: 289766
+Read misses: 7583
+Read misses combined: 7583
+Writes: 211702
+Write misses: 19848
+Write misses combined: 19848
+Misses: 27431
+Writebacks: 19804
+Victim cache misses: 27431
+Prefetched blocks: 0
+Useful prefetches: 0
+Bytes transferred to/from memory: 3023040
+Hit Time: 2.2
+Miss Penalty: 200
+Miss rate: 0.0547014
+Average access time (AAT): 13.1403
